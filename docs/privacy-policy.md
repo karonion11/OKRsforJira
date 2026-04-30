@@ -11,6 +11,8 @@ This Privacy Policy describes how **Individual Entrepreneur Ihor Oleksandrovych 
 
 If you have questions about this Privacy Policy or want to submit a privacy or deletion request, contact: **ig.vasylenko2@gmail.com**.
 
+For information about how we protect the App and handle security matters, please see our **[Partner Security Policy](https://karonion11.github.io/OKRsforJira/partner-security-policy.html)**.
+
 ## 1. Scope
 
 This Privacy Policy applies to customer and end-user data processed through the App when installed in Jira Cloud.
@@ -96,7 +98,7 @@ After verification, we will use the available Atlassian Forge administrative and
 
 The App uses Atlassian Forge authentication context and Atlassian-hosted storage/services. Access to App operations is controlled through the App's backend authorization model.
 
-No security measure is absolute, but we take reasonable steps appropriate to the App's nature and hosting model.
+No security measure is absolute, but we take reasonable steps appropriate to the App's nature and hosting model. For more information about vulnerability management, incident response, security controls, and our no-external-servers architecture, see our **[Partner Security Policy](https://karonion11.github.io/OKRsforJira/partner-security-policy.html)**.
 
 ## 11. International transfers
 
