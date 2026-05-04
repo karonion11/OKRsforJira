@@ -8,7 +8,7 @@ title: Support
 For support, billing questions, privacy requests, or deletion requests related to **OKR Tracker for Jira**, contact:
 
 **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**  
-Email: **ig.vasylenko2@gmail.com**
+Email: **support@florenco.tech**
 
 ## Recommended support request details
 
