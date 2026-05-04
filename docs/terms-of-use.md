@@ -41,7 +41,7 @@ The App depends on Atlassian Jira Cloud and Atlassian Forge. Availability and so
 
 ## 5. Support
 
-Support requests may be sent to **ig.vasylenko2@gmail.com**.
+Support requests may be sent to **support@florenco.tech**.
 
 We do not guarantee any specific SLA unless separately agreed in writing.
 
@@ -87,4 +87,4 @@ We may update these Terms by publishing an updated version on this page. Continu
 
 **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**  
 Ukraine  
-Email: **ig.vasylenko2@gmail.com**
+Email: **support@florenco.tech**
