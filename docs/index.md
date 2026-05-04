@@ -23,7 +23,7 @@ Sole proprietor registered in Ukraine.
 ## Contact
 
 For support, privacy, or data deletion requests:  
-**ig.vasylenko2@gmail.com**
+**support@florenco.tech**
 
 ## Product scope
 
