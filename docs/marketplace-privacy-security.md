@@ -42,7 +42,7 @@ The app enforces backend authorization rules using the current Jira user context
 
 ## 7. How can customer tenant data be deleted?
 
-A customer may submit a verified deletion request to **ig.vasylenko2@gmail.com**. After verification, App-stored tenant data is targeted for deletion within **30 days** using the applicable Atlassian Forge mechanisms and application-level deletion logic.
+A customer may submit a verified deletion request to **support@florenco.tech**. After verification, App-stored tenant data is targeted for deletion within **30 days** using the applicable Atlassian Forge mechanisms and application-level deletion logic.
 
 ## 8. Does the app support data export?
 
@@ -50,7 +50,7 @@ No dedicated self-service export flow is currently documented in the app.
 
 ## 9. Where is support handled?
 
-Support contact: **ig.vasylenko2@gmail.com**
+Support contact: **support@florenco.tech**
 
 ## 10. Public documents
 
