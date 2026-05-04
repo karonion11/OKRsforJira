@@ -37,7 +37,7 @@ Customer data remains in the App until:
 
 For verified tenant deletion requests, we aim to delete App-stored tenant data within **30 days**.
 
-To request deletion, contact **ig.vasylenko2@gmail.com** and include:
+To request deletion, contact **support@florenco.tech** and include:
 
 - Jira site URL or tenant identification,
 - app name,
@@ -54,4 +54,4 @@ Deletion is performed using the available Atlassian Forge application and admini
 
 ## Contact
 
-**ig.vasylenko2@gmail.com**
+**support@florenco.tech**
