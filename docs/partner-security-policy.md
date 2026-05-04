@@ -9,7 +9,7 @@ title: Partner Security Policy
 
 This Partner Security Policy describes the security practices for **OKR Tracker for Jira** (the "App"), provided by **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**, a sole proprietor registered in Ukraine ("Vendor", "we", "us", or "our").
 
-For security questions or to report a potential security issue, contact: **ig.vasylenko2@gmail.com**.
+For security questions or to report a potential security issue, contact: **support@florenco.tech**.
 
 ## 1. Scope
 
@@ -96,7 +96,7 @@ Our vulnerability management practices include:
 
 If a vulnerability is confirmed, we aim to remediate it within a timeframe appropriate to its severity and operational impact. Critical issues are prioritized ahead of normal feature work.
 
-Security reports can be sent to: **ig.vasylenko2@gmail.com**
+Security reports can be sent to: **support@florenco.tech**
 
 We ask that reporters provide enough detail to help us reproduce and assess the issue.
 
@@ -151,4 +151,4 @@ The updated version becomes effective when published on this page.
 
 **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**  
 Ukraine  
-Email: **ig.vasylenko2@gmail.com**
+Email: **support@florenco.tech**
