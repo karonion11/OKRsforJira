@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Marketplace Privacy & Security Draft Answers
+title: Marketplace Privacy & Security 
 ---
 
-# Marketplace Privacy & Security Draft Answers
+# Marketplace Privacy & Security 
 
 This page is a working draft to support Atlassian Marketplace review responses for **OKR Tracker for Jira**.
 
