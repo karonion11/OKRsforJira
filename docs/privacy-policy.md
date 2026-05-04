@@ -9,7 +9,7 @@ title: Privacy Policy
 
 This Privacy Policy describes how **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**, a sole proprietor registered in Ukraine ("Vendor", "we", "us", or "our"), processes information in connection with **OKR Tracker for Jira** (the "App").
 
-If you have questions about this Privacy Policy or want to submit a privacy or deletion request, contact: **ig.vasylenko2@gmail.com**.
+If you have questions about this Privacy Policy or want to submit a privacy or deletion request, contact: **support@florenco.tech**.
 
 For information about how we protect the App and handle security matters, please see our **[Partner Security Policy](https://karonion11.github.io/OKRsforJira/partner-security-policy.html)**.
 
@@ -90,7 +90,7 @@ When we receive a verified customer deletion request for tenant App data, we aim
 
 ## 9. Deletion requests
 
-To request deletion of tenant App data, contact **ig.vasylenko2@gmail.com** and provide enough information to identify the Jira site / tenant and the installation concerned.
+To request deletion of tenant App data, contact **support@florenco.tech** and provide enough information to identify the Jira site / tenant and the installation concerned.
 
 After verification, we will use the available Atlassian Forge administrative and application-level mechanisms to delete App-stored tenant data within the stated retention window.
 
@@ -116,4 +116,4 @@ We may update this Privacy Policy from time to time. The updated version becomes
 
 **Individual Entrepreneur Ihor Oleksandrovych Vasylenko**  
 Ukraine  
-Email: **ig.vasylenko2@gmail.com**
+Email: **support@florenco.tech**
