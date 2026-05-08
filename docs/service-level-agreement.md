@@ -1,4 +1,3 @@
-# Service Level Agreement (SLA)
 
 This Service Level Agreement (SLA) outlines the support standards for applications published on the Atlassian Marketplace by Florenco.
 
