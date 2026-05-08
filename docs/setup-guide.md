@@ -1,52 +1,55 @@
-# OKR Tracker For Jira Setup Guide
+# OKR Tracker For Jira Setup Guide                                                                                                                                        
+                                                                                                                                                                            
+  This is the one-page setup guide for Atlassian Marketplace listing and customer onboarding.                                                                               
+                                                                                                                                                                            
+  ## Prerequisites
 
-This is the one-page setup guide for Atlassian Marketplace listing and customer onboarding.
+  - Jira Cloud site
+  - Atlassian admin rights to install Marketplace apps
 
-## Prerequisites
+  ## Install
 
-- Jira Cloud site
-- Atlassian admin rights to install Marketplace apps
+  1. Open the app listing in Atlassian Marketplace.
+  2. Start a trial or purchase a subscription.
+  3. Install the app into your Jira Cloud site.
 
-## Install
+  ## First Launch
 
-1. Open the app listing in Atlassian Marketplace.
-2. Start a trial or purchase a subscription.
-3. Install the app into your Jira Cloud site.
+  After installation, open **Apps → OKR Tracker** in Jira and follow these three steps to get a working OKR structure:
 
-## First Launch
+  ### 1. Create a period
 
-1. Open **Apps -> OKR Tracker** in Jira.
-2. On first installation, the installer becomes the initial app owner/admin.
-3. Open the app and create your first period.
+  A period is the time window your objectives live in (a quarter, a half, a year — whatever cadence you use).
 
-## Recommended Initial Configuration
+  - Open the **Periods** tab in the sidebar.
+  - Add a new period with a name and start/end dates.
+  - The period you create becomes selectable in the top bar of the **Objectives** view.
 
-1. Create one or more teams.
-2. Assign team members.
-3. Review the Permissions screen.
-4. Confirm who can view all OKRs, who is team-limited, and who can edit.
+  ### 2. Create a team and add members
 
-## Create Your First OKR Structure
+  Teams group people who own and execute on objectives together.
 
-1. Create a period.
-2. Create an objective.
-3. Add one or more key results.
-4. Optionally assign teams, owners, and assignees.
-5. Link relevant Jira issues to connect execution with goals.
+  - Open the **Teams** tab in the sidebar.
+  - Create a team (give it a name and a color).
+  - Add members by their Jira accounts — they will be available as owners and assignees on objectives and key results.
 
-## Permissions Model Summary
+  ### 3. Create your first Objective
 
-- App owner and admins can manage permissions.
-- Visibility can be global or team-scoped.
-- Edit rights can be global, team-scoped, owner-scoped, or none.
-- Backend authorization enforces these rules on resolver calls.
+  - Open the **Objectives** tab and select the period you just created.
+  - Click **+ Add Objective**, give it a title, and (optionally) assign a team and an owner.
+  - Inside the objective, you can nest:
+    - **Key results** — measurable outcomes that track progress.
+    - **Sub-objectives** — when an objective decomposes into smaller objectives owned by other teams or people.
+    - **Linked Jira issues** — to connect the goal to the actual delivery work in Jira.
 
-## Licensing Behavior
+  That's it — your first OKR is live. Repeat for the rest of your objectives.
 
-- Active and trial licenses allow normal app usage.
-- Inactive paid license shows a license-required experience and blocks mutating actions.
+  ## Licensing Behavior
 
-## Support
+  - Active and trial licenses allow normal app usage.
+  - Inactive paid license shows a license-required experience and blocks mutating actions.
 
-- Support email: ig.vasylenko2@gmail.com
-- Support page: https://karonion11.github.io/OKRsforJira/support.html
+  ## Support
+
+  - Support email: support@florenco.tech
+  - Support page: https://karonion11.github.io/OKRsforJira/support.html
