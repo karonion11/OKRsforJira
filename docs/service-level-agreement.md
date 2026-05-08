@@ -7,8 +7,8 @@ All support requests are accepted through the official channel:
 * **Email:** support@florenco.tech
 
 **Support Business Hours:**
-* Monday – Friday: 10:00 AM – 6:00 PM (EET/EEST)
-* Saturday, Sunday, and Public Holidays: Closed
+* Monday – Friday: 10:00 AM – 7:00 PM (EET/EEST)
+* Saturday, Sunday: Closed
 
 ## 2. Incident Classification and Response Times
 
